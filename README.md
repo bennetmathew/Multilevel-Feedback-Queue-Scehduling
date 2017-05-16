@@ -1,7 +1,7 @@
 # Multilevel-Feedback-Queue-Scehduling
 ---------------------------------------------------------
 Name: Bennet Mathew
-University of Bridgeport
+University: University of Bridgeport
 Title: Multilevel feedback queue Scheduler using GUI
 ---------------------------------------------------------
 
